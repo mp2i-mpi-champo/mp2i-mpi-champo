@@ -1,4 +1,4 @@
-baseURL = 'https://example.org/'
+baseURL = 'https://mp2i-mpi-champo.github.io/'
 locale = 'fr-fr'
 title = 'Ressources MP2I/MPI Champollion'
 theme = 'hugo-book'
