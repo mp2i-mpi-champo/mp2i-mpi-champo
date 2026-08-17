@@ -7,7 +7,8 @@ theme = 'hugo-book'
   BookToC = true
   BookSearch = true
   BookLandingPage = true
-  BookLogo= 'logo.webp'
+  BookLogo = 'logo.webp'
+  BookFavicon = 'favicon.ico'
 
 [markup.goldmark.parser.attribute]
   title = true
