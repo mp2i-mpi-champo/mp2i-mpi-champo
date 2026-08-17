@@ -1,0 +1,12 @@
+baseURL = 'https://example.org/'
+locale = 'fr-fr'
+title = 'Ressources MP2I/MPI Champollion'
+theme = 'hugo-book'
+
+[params]
+  BookToC = true
+  BookSearch = true
+  BookLandingPage = true
+
+[markup.goldmark.parser.attribute]
+  title = true
