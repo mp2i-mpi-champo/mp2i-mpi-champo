@@ -9,6 +9,7 @@ Ce site regroupe des informations utiles aussi bien pour la MP2I que pour la MPI
 
 ## **Liens utiles**
 - [portail formations UGA](https://eformation.univ-grenoble-alpes.fr)
+- [beluga : blibliothèque en ligne de l'UGA](https://beluga.univ-grenoble-alpes.fr)
 - [accès PLUS+](https://lycee-champollion.prepas-plus.fr/) (plateforme pour les notes en prépa)
 
 ## **Discords liés à la filière**

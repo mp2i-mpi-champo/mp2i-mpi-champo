@@ -13,4 +13,4 @@ weight: 5
 
 # **Info**
 
-Site de M. Pécheux : [carno-cpge](https://carnot.cpge.info/)
+Site de M. Pécheux : [carnot-cpge](https://carnot.cpge.info/)

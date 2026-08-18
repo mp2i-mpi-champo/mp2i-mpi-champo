@@ -4,9 +4,11 @@ title = 'Ressources MP2I/MPI Champollion'
 theme = 'hugo-book'
 
 [params]
+  BookTheme = 'contrast-auto'
   BookToC = true
   BookSearch = true
   BookLandingPage = true
+  
   BookLogo = 'logo.webp'
   BookFavicon = 'favicon.ico'
 
