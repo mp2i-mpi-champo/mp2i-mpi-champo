@@ -12,7 +12,6 @@ weight: 5
 ---
 # **Informatique**
 Site de M. Karpman : [site](https://membres-ljk.imag.fr/Pierre.Karpman/CPGE/2025/)
-Recueil d'exercices de colle par chapitre (sup et spé) : [La Totale](https://bourotte.com/exos)
 
 ## **Setup pour l'informatique**
 Il est **vivement recommendé** d'avoir une machine avec **Linux**, MacOS est aussi acceptable et Windows avec WSL est... utilisable.
