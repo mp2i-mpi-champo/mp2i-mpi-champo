@@ -1,6 +1,6 @@
 ---
-title: "MPI"
-weight: 3
+title: "Écrits"
+weight: 1
 # bookFlatSection: false
 # bookToc: true
 # bookHidden: false
@@ -10,4 +10,4 @@ weight: 3
 # bookHref: ''
 # bookIcon: ''
 ---
-# **Informations Générales**
+# **Écrits**

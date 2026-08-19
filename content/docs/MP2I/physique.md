@@ -1,6 +1,6 @@
 ---
 title: "Physique"
-weight: 5
+weight: 2
 # bookFlatSection: false
 # bookToc: true
 # bookHidden: false
@@ -24,3 +24,5 @@ Quelques informations clés sur le travail en classe :
   - un DS environ toutes les 6 semaines, toujours basé sur des extraits de concours (sauf rares exceptions)
 
 Pour les TP, un **compte-rendu** est exigé et est **ramassé aléatoiremement** au prochain cours (dans notre cas c'était de lundi soir pour mardi matin), vous êtes libres de le rendre au format papier ou de l'envoyer par mail. Le faire en [LaTeX](https://www.latex-project.org/) est permis.
+
+**NB :** l'épreuve de TP de Physique aux concours n'existe qu'à Centrale.
