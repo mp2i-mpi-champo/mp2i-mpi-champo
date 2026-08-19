@@ -28,7 +28,7 @@ L'enjeu du TIPE en première année est de trouver un sujet qui vous plait et de
 - Si vous touchez à de l'info par n'importe quelle manière, il faudra passer par la case développement (: (bonne chance)
 - La spé vous ~~permettra~~ obligera à ensuite faire de la mise en forme et préparer un diapo
 
-## **L'Été**
+## **L'été**
 
 L'été entre la sup et la spé est le meilleur moment pour avancer votre TIPE (les profs vous le diront :)).
 
