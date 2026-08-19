@@ -50,3 +50,8 @@ Quelques recommendations de flags de compilation :
 
 ### **Pour Ocaml**
 La [docu officielle](https://ocaml.org/manual/) est suffisante pour rechercher des méthodes.
+
+## **Ressources supplémentaires**
+
+- [La totale](https://bourotte.com/exos) : Exercices donnés en colle par une étudiante de L'ENS Lyon.
+- [REQUIN](https://juliette.ponsonnet.org/requin.pdf) : Recueil de questions d'informatique. Vous pouvez tenter les problèmes d'algorithmique ; ils restent difficiles, mais le reste est pour les spé.
