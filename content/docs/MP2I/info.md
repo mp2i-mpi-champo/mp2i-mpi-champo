@@ -1,6 +1,6 @@
 ---
 title: "Info"
-weight: 5
+weight: 2
 # bookFlatSection: false
 # bookToc: true
 # bookHidden: false

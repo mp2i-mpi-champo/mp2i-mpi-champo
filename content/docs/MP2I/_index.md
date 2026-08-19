@@ -10,3 +10,20 @@ weight: 1
 # bookHref: ''
 # bookIcon: ''
 ---
+# **Informations Générales**
+Bienvenue en MP2I ! Tu trouveras ci-dessous des informations qui peuvent être utiles.
+
+Si jamais vous n'être pas encore rentrés en MP2I, la **priorité n°1** est de **lire les livre de philo-lettres**.
+
+## **Conseils pour la MP2I**
+Le travail et l'activité principale en MP2I, essayez au plus vite de trouver votre rythme et **n'oubliez pas de vous reposer**, le repos est clé pour pouvoir suivre correctement en classe.
+
+Organisez-vous pendant les vacances, tout faire le dernier weekend est une **très mauvaise idée** (bien que ça puisse être *faisable*, c'est fortement déconseillé).
+
+Pour le **Français**, concentrez vous sur la méthode et entrainez-vous au résumé, faites quand même évidemment bien les choses, le français peut être décisif pour les places en classes étoilées selon le dossier.
+
+Pour l'**Anglais**, travaillez sérieusement les TG (fiches de grammaire), c'est des points que vous ne perdrez plus en DS, apprennez et suivez la méthode, ce sont des points "gratuits". 
+
+## **Liens utiles**
+Ci-dessous quelques liens utiles spécifiques à la MP2I n'ayant pas leur place dans les autres pages :
+- [Drive pour les colles d'anglais](https://drive.google.com/drive/folders/1b3StPB9kaFj8121e5JGmR5QqkUChph9B?usp=drive_link)

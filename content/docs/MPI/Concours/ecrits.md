@@ -1,5 +1,5 @@
 ---
-title: "Informations Générales"
+title: "Écrits"
 weight: 1
 # bookFlatSection: false
 # bookToc: true
@@ -10,5 +10,4 @@ weight: 1
 # bookHref: ''
 # bookIcon: ''
 ---
-
-# **Informations Générales**
+# **Écrits**

@@ -13,4 +13,6 @@ weight: 5
 
 # **Info**
 
+## **Fonctionnement**
+
 Site de M. Pécheux : [carnot-cpge](https://carnot.cpge.info/)

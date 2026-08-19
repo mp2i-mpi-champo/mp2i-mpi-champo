@@ -12,3 +12,7 @@ weight: 5
 ---
 
 # **Maths**
+
+## **Fonctionnement**
+## **Exercices supplémentaires**
+Exercices sympa : [ici](https://www.bibmath.net/ressources/index.php?action=affiche&quoi=mathspe/index).
