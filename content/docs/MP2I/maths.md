@@ -23,5 +23,13 @@ Le fonctionnement des maths à Champollion en MP2I est assez spécifique :
 
 En plus de cela il faut compter un DS de maths environ tous les mois qui permet de se tester en conditions réelles.
 
-## **Exercices supplémentaires**
-Si jamais *par hasard*, vous finissiez le TD et vouliez encore faire des exercices, il y en a de disponible [ici](https://ddmaths.free.fr/) et [ici](https://lgarcin.github.io/).
+## **Ressources supplémentaires**
+
+Si vous cherchez d'autres exercices, des notes de cours rédigées différemment, ou juste des problèmes impossibles :
+
+- [Exo7](http://exo7.emath.fr/index.html) : Exercices et cours hors programme parfois amusants. Ce site couvre L1, L2 et L3.
+- [Bibm@th](https://www.bibmath.net/) : Recueil reconnu d'exercices et de méthodes.
+- [Bertault](https://christophebertault.fr/cours-et-exercices/) : Site d'une MPSI. Niveau équivalent à Champo, intéressant pour avoir d'autres sujets.
+- [Troesch](http://alain.troesch.free.fr/) : Ancien professeur de LLG. Beaucoup d'exercices très difficiles et introduisants beaucoup de notions.
+- [DDmaths](https://ddmaths.free.fr/) : Encore des exercices...
+- [Garcin](https://lgarcin.github.io/) : Et encore... Vous pouvez utiliser ce site pour aller fouiller les cours de spé si ça vous amuse.
