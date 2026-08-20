@@ -1,5 +1,5 @@
 ---
-title: "MP2I / MPI Ressources"
+title: "Ressources MP2I / MPI"
 type: "docs"
 ---
 

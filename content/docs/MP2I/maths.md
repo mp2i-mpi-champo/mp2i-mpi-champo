@@ -25,6 +25,9 @@ En plus de cela il faut compter un DS de maths environ tous les mois qui permet 
 
 
 ## **Ressources supplémentaires**
+
+[Guide pour la rédaction](https://christophebertault.fr/documents/coursetexercices/Petit%20manuel%20de%20bonne%20redaction.pdf) en maths, même si M. Vienney vous montrera, c'est toujours bien d'avoir quelque chose d'écrit quelque part.
+
 Si vous cherchez d'autres exercices, des notes de cours rédigées différemment, ou juste des problèmes impossibles :
 - [Bibm@th](https://www.bibmath.net/) : Recueil reconnu d'exercices et de méthodes.
 - [Bertault](https://christophebertault.fr/cours-et-exercices/) : Site d'une MPSI. Niveau équivalent à Champo, intéressant pour avoir d'autres sujets.
